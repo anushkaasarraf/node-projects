@@ -1,28 +1,17 @@
-# Dependencies
 node_modules/
-
-# Secrets and environment files
 .env
 .env.*
 !.env.example
-
-# Logs
 *.log
 log.txt
 npm-debug.log*
-
-# User-uploaded files
 file-upload-app/uploads/
-
-# Large sample / test files
 sample.*
 test.txt
 task.txt
-
-# OS files
+basics/
+Streams/
 .DS_Store
 Thumbs.db
-
-# Editor files
 .vscode/
 .idea/
